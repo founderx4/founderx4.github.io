@@ -27,7 +27,7 @@ categories: Tech
 #I create a RM for youku
 % youku XMTQ2NDUxOTM5Mg==%
 {% endhighlight %}
-
+{% youku XMTQ2NDUxOTM5Mg==%}
 
 还有两天过年了，这两天终于有点时间可以研究一些技术问题，听一些讲座，把未来发展的框架搭一搭。
 
