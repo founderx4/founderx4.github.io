@@ -4,7 +4,7 @@ title:      "添加视频给自己的博客"
 subtitle:   "终于可以用动态的画面来说话了"
 date:       2017-01-24 6:00:00
 author:     "Alex Liu"
-header-img: "img/2017_1_24_Add_video/post-bg.gif"
+header-img: "img/about-bg.jpg"
 categories: Tech
 ---
 
@@ -17,7 +17,7 @@ categories: Tech
 <img src="{{ site.baseurl }}/img/2017_1_24_Add_video/post-gifanimation.gif" alt="Post Sample Image">
 {% endhighlight %}
 <a href="#">
-    <center><img src="{{ site.baseurl }}/img/2017_1_24_Add_video/post-gifanimation.gif" alt="Post Sample Image"></center>
+    <center><img src="{{ site.baseurl }}/img/about-bg.jpg" alt="Post Sample Image"></center>
 </a>
 <span class="caption text-muted">猴年年末做的英菲尼迪的项目，微信推文大长图中接了很多的GIF</span>
 
