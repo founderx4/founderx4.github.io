@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "添加视频给自己的博客"
+subtitle:   "终于可以用动态的画面来说话了"
+date:       2017-01-24 6:00:00
+author:     "Alex Liu"
+header-img: "img/2017_1_24_Add_video/post-bg.gif"
+categories: Tech
+---
+
+<p>动态的图像相比于静态图更容易吸引人的注意力，无论是炫，可爱，摇滚，复古他都能更好的表达，另外用它讲故事大家很愿意看</p>
+<h2>Gif 动画</h2>
+
+<blockquote>GIF动画适合小画面短时间的应用</blockquote>
+{% highlight ruby %}
+#directly use img to add gif like jpg used to be
+<img src="{{ site.baseurl }}/img/2017_1_24_Add_video/post-gifanimation.gif" alt="Post Sample Image">
+{% endhighlight %}
+<a href="#">
+    <center><img src="{{ site.baseurl }}/img/2017_1_24_Add_video/post-gifanimation.gif" alt="Post Sample Image"></center>
+</a>
+<span class="caption text-muted">猴年年末做的英菲尼迪的项目，微信推文大长图中接了很多的GIF</span>
+
+<h2>插入视频</h2>
+<blockquote>视频的制作时间较长，但是绝对是结案，讲故事说创意的好办法，这个是我负责的项目的介绍视频</blockquote>
+{% highlight ruby %}
+#I create a RM for youku
+% youku XMTQ2NDUxOTM5Mg==%
+{% endhighlight %}
+{% youku XMTQ2NDUxOTM5Mg==%}
+
+还有两天过年了，这两天终于有点时间可以研究一些技术问题，听一些讲座，把未来发展的框架搭一搭。
+
+
+<p>Placeholder text by <a href="http://founderx4.github.io/">Alex liu</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
