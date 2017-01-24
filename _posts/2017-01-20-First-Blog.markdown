@@ -8,15 +8,14 @@ header-img: "img/post-bg-06.jpg"
 categories: Tech
 ---
 
-<p>11接近年底，忙了一整年有了很多的收获，但一直没有一个领地总结自己的作品，思考自己的发展，一个彻底用自己的视角看世界的地方，但现在我创造了一个</p>
+<p>21接近年底，忙了一整年有了很多的收获，但一直没有一个领地总结自己的作品，思考自己的发展，一个彻底用自己的视角看世界的地方，但现在我创造了一个</p>
 
-{% youku XNTc2ODk1NjI0 %}
+<embed src='http://player.youku.com/player.php/Type/Folder/Fid//Ob//sid/XMjQ4Mzk5MzA5Mg==/v.swf' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' allowFullScreen='true' mode='transparent' type='application/x-shockwave-flash'></embed>
 
 <p>搭建这个博客去年就开工了，确切的说是2016年的2月份，然后一忙就没时间学习制作了，确实也是没找到好的文章，一路各种坑精疲力尽一歇，到了2017年的现在才算是彻底把Jekyll的基础搭建完成，未来还有好多功能不如分类，或者搜索要探索制作，一步一步来吧</p>
-{% tudou XNTc2ODk1NjI0 %}
+
 <p>下面把遇到的坑和安装的过程记录一下，以便未来查阅安装（家里的mac 
 Pro就是下一个安装对象，自己看着自己的教程安装想想挺有趣）废话太多了，有点兴奋，下面开始</p>
-{% youtube oHg5SJYRHA0 %}
 <h2 class="section-heading">Jeky安装</h2>
 <blockquote>Jekyll是一个将纯文本转换成静态站点或blog的工具。github pages对Jekyll提供原生支持，可以免费将你的blog托管到github pages。<a href="https://jekyllrb.com/">jekyll 官网</a></blockquote>
 
