@@ -30,7 +30,7 @@ categories: Tech
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
-<iframe height="498" width="800" src="http://player.youku.com/embed/XMjQ3NzcwMjA0OA==" frameborder="0" style="max-width:100%;"  allowfullscreen></iframe>
+
 
 还有两天过年了，这两天终于有点时间可以研究一些技术问题，听一些讲座，把未来发展的框架搭一搭。
 
