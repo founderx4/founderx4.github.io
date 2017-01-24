@@ -8,7 +8,7 @@ header-img: "img/post-bg-06.jpg"
 categories: Tech
 ---
 
-<p>接近年底，忙了一整年有了很多的收获，但一直没有一个领地总结自己的作品，思考自己的发展，一个彻底用自己的视角看世界的地方，但现在我创造了一个</p>
+<p>1接近年底，忙了一整年有了很多的收获，但一直没有一个领地总结自己的作品，思考自己的发展，一个彻底用自己的视角看世界的地方，但现在我创造了一个</p>
 <p>动态的图像相比于静态图更容易吸引人的注意力，无论是炫，可爱，摇滚，复古他都能更好的表达，另外用它讲故事大家很愿意看</p>
 <h2>Gif 动画</h2>
 
@@ -17,7 +17,10 @@ categories: Tech
 #directly use img to add gif like jpg used to be
 <img src="{{ site.baseurl }}/img/2017_1_24_Add_video/post-gifanimation.gif" alt="Post Sample Image">
 {% endhighlight %}
-
+<a href="#">
+    <center><img src="{{ site.baseurl }}/img/2017_1_24_Add_video/post-gifanimation.gif" alt="Post Sample Image"></center>
+</a>
+<span class="caption text-muted">猴年年末做的英菲尼迪的项目，微信推文大长图中接了很多的GIF</span>
 
 <p>搭建这个博客去年就开工了，确切的说是2016年的2月份，然后一忙就没时间学习制作了，确实也是没找到好的文章，一路各种坑精疲力尽一歇，到了2017年的现在才算是彻底把Jekyll的基础搭建完成，未来还有好多功能不如分类，或者搜索要探索制作，一步一步来吧</p>
 
